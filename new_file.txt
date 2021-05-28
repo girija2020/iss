@@ -1,0 +1,2 @@
+Trying to add new_file from a local repo
+Just the normal procedure add commit and push
