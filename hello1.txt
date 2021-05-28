@@ -1,1 +1,0 @@
-hello1 to verify rm function
